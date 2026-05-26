@@ -1,0 +1,1 @@
+{"version":3,"file":"Home-BhljtPYx.js","sources":["../../../../store/src/pages/Home.vue"],"sourcesContent":["<template>\n\t<h1 class=\"text-2xl p-10 text-blue-400 font-bold\">Our Store</h1>\n\n\t<!-- Dialog -->\n</template>\n\n<script setup></script>\n"],"names":["_hoisted_1","_createElementBlock"],"mappings":"4DACKA,EAAA,CAAA,MAAM,uCAAuC,6BAAjDC,EAAgE,KAAhED,EAAkD,WAAS"}
